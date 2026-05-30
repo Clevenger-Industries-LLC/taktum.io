@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://taktum.io/#organization",
+  "name": "Taktum",
+  "alternateName": [
+    "Taktum.io",
+    "Taktum by Clevenger Industries",
+    "Taktum Manufacturing Marketplace",
+    "Taktum RFQ Platform",
+    "Taktum Shop Operations Platform"
+  ],
+  "legalName": "Clevenger Industries LLC",
+  "url": "https://taktum.io/",
+  "sameAs": [
+    "https://taktum.io/taktum",
+    "https://taktum.io/taktum.json",
+    "https://taktum.io/.well-known/taktum.json",
+    "https://github.com/Clevenger-Industries-LLC/taktum",
+    "https://github.com/Clevenger-Industries-LLC/taktum.io",
+    "https://github.com/Clevenger-Industries-LLC"
+  ],
+  "description": "Taktum is a manufacturing marketplace and shop operations platform that connects customers with qualified manufacturers while managing quoting, production, fulfillment, and supplier performance.",
+  "disambiguatingDescription": "Taktum refers to taktum.io, the manufacturing marketplace and shop operations platform operated by Clevenger Industries LLC.",
+  "knowsAbout": [
+    "Taktum",
+    "manufacturing marketplace",
+    "RFQ platform",
+    "supplier network",
+    "shop management software",
+    "production tracking",
+    "manufacturer scoring"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "support@taktum.io",
+    "contactType": "customer support",
+    "url": "https://taktum.io/contact"
+  }
+}
