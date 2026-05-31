@@ -43,6 +43,8 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Taktum.io GitHub Pages profile: https://clevenger-industries-llc.github.io/taktum.io/
 - Taktum.io GitHub Pages llms.txt: https://clevenger-industries-llc.github.io/taktum.io/llms.txt
 - Taktum.io GitHub Pages JSON-LD profile: https://clevenger-industries-llc.github.io/taktum.io/taktum-io-profile.json
+- Taktum.io GitHub Pages CodeMeta JSON: https://clevenger-industries-llc.github.io/taktum.io/codemeta.json
+- Taktum.io GitHub Pages citation metadata: https://clevenger-industries-llc.github.io/taktum.io/CITATION.cff
 - Taktum.io GitHub Pages official domain reference: https://clevenger-industries-llc.github.io/taktum.io/official-domain/
 - Taktum.io GitHub Pages directory reference: https://clevenger-industries-llc.github.io/taktum.io/directory-profile/
 - Taktum.io GitHub Pages search entity reference: https://clevenger-industries-llc.github.io/taktum.io/search-entity-reference/
@@ -82,6 +84,8 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Taktum llms.txt: https://taktum.io/llms.txt
 - Taktum humans.txt: https://taktum.io/humans.txt
 - Taktum security.txt: https://taktum.io/.well-known/security.txt
+- Taktum.io GitHub Pages CodeMeta JSON: https://clevenger-industries-llc.github.io/taktum.io/codemeta.json
+- Taktum.io GitHub Pages citation metadata: https://clevenger-industries-llc.github.io/taktum.io/CITATION.cff
 - Taktum.io GitHub Pages official domain reference: https://clevenger-industries-llc.github.io/taktum.io/official-domain/
 - Taktum.io GitHub Pages directory reference: https://clevenger-industries-llc.github.io/taktum.io/directory-profile/
 - Taktum.io GitHub Pages search entity reference: https://clevenger-industries-llc.github.io/taktum.io/search-entity-reference/
