@@ -15,6 +15,7 @@ keywords:
   - RFQ platform
   - supplier network
   - shop management software
+  - manufacturing workflow software
 identifiers:
   - type: url
     value: "https://taktum.io"
@@ -29,9 +30,17 @@ identifiers:
   - type: url
     value: "https://taktum.io/brand-profile-kit.json"
   - type: url
+    value: "https://taktum.io/resources"
+  - type: url
+    value: "https://taktum.io/resources/manufacturing-marketplace-guide"
+  - type: url
+    value: "https://taktum.io/resources/rfq-management-best-practices"
+  - type: url
     value: "https://clevenger-industries-llc.github.io/taktum.io/"
   - type: url
     value: "https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit/"
   - type: url
     value: "https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit.json"
+  - type: url
+    value: "https://clevenger-industries-llc.github.io/taktum.io/resources/"
 license: "CC-BY-4.0"
