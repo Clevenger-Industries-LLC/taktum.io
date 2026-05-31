@@ -13,6 +13,8 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Official disambiguation and entity reference: https://taktum.io/taktum-disambiguation
 - Official Taktum search entity reference: https://taktum.io/search-entity-reference
 - Official Taktum investor reference: https://taktum.io/investor-reference
+- Official Taktum brand profile kit: https://taktum.io/brand-profile-kit
+- Official Taktum brand profile kit JSON: https://taktum.io/brand-profile-kit.json
 - Official Taktum brand profile: https://taktum.io/taktum
 - Official profiles hub: https://taktum.io/official-profiles
 - Official updates page: https://taktum.io/official-updates
@@ -43,6 +45,8 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Taktum.io GitHub Pages profile: https://clevenger-industries-llc.github.io/taktum.io/
 - Taktum.io GitHub Pages llms.txt: https://clevenger-industries-llc.github.io/taktum.io/llms.txt
 - Taktum.io GitHub Pages JSON-LD profile: https://clevenger-industries-llc.github.io/taktum.io/taktum-io-profile.json
+- Taktum.io GitHub Pages brand profile kit: https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit/
+- Taktum.io GitHub Pages brand profile kit JSON: https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit.json
 - Taktum.io GitHub Pages CodeMeta JSON: https://clevenger-industries-llc.github.io/taktum.io/codemeta.json
 - Taktum.io GitHub Pages citation metadata: https://clevenger-industries-llc.github.io/taktum.io/CITATION.cff
 - Taktum.io GitHub Pages official domain reference: https://clevenger-industries-llc.github.io/taktum.io/official-domain/
@@ -74,6 +78,8 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Official disambiguation and entity reference: https://taktum.io/taktum-disambiguation
 - Official search entity reference: https://taktum.io/search-entity-reference
 - Official investor reference: https://taktum.io/investor-reference
+- Official brand profile kit: https://taktum.io/brand-profile-kit
+- Official brand profile kit JSON: https://taktum.io/brand-profile-kit.json
 - Machine-readable entity profile: https://taktum.io/taktum.json
 - Investor and company profile JSON: https://taktum.io/investor-profile.json
 - Well-known company profile JSON: https://taktum.io/.well-known/company-profile.json
@@ -90,6 +96,8 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Taktum.io GitHub Pages directory reference: https://clevenger-industries-llc.github.io/taktum.io/directory-profile/
 - Taktum.io GitHub Pages search entity reference: https://clevenger-industries-llc.github.io/taktum.io/search-entity-reference/
 - Taktum.io GitHub Pages investor reference: https://clevenger-industries-llc.github.io/taktum.io/investor-reference/
+- Taktum.io GitHub Pages brand profile kit: https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit/
+- Taktum.io GitHub Pages brand profile kit JSON: https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit.json
 - Contact: support@taktum.io
 
 ## Preferred Description
