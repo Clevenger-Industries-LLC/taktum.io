@@ -43,6 +43,9 @@
         "https://clevenger-industries-llc.github.io/taktum.io/",
         "https://clevenger-industries-llc.github.io/taktum.io/llms.txt",
         "https://clevenger-industries-llc.github.io/taktum.io/taktum-io-profile.json",
+        "https://clevenger-industries-llc.github.io/taktum.io/official-domain/",
+        "https://clevenger-industries-llc.github.io/taktum.io/search-entity-reference/",
+        "https://clevenger-industries-llc.github.io/taktum.io/investor-reference/",
         "https://www.clevenger.cloud/taktum/"
       ],
       "knowsAbout": [
@@ -97,6 +100,21 @@
           "@type": "WebPage",
           "name": "Taktum by Clevenger Industries operator profile",
           "url": "https://www.clevenger.cloud/taktum/"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Taktum.io official domain GitHub Pages reference",
+          "url": "https://clevenger-industries-llc.github.io/taktum.io/official-domain/"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Taktum.io search entity GitHub Pages reference",
+          "url": "https://clevenger-industries-llc.github.io/taktum.io/search-entity-reference/"
+        },
+        {
+          "@type": "AboutPage",
+          "name": "Taktum.io investor GitHub Pages reference",
+          "url": "https://clevenger-industries-llc.github.io/taktum.io/investor-reference/"
         },
         {
           "@type": "DataDownload",
@@ -170,7 +188,10 @@
         "https://taktum.io/taktum.json",
         "https://taktum.io/llms.txt",
         "https://taktum.io/feed.xml",
-        "https://clevenger-industries-llc.github.io/taktum.io/"
+        "https://clevenger-industries-llc.github.io/taktum.io/",
+        "https://clevenger-industries-llc.github.io/taktum.io/official-domain/",
+        "https://clevenger-industries-llc.github.io/taktum.io/search-entity-reference/",
+        "https://clevenger-industries-llc.github.io/taktum.io/investor-reference/"
       ],
       "identifier": [
         {
@@ -200,6 +221,45 @@
       "url": "https://clevenger-industries-llc.github.io/taktum.io/",
       "name": "Taktum.io official public domain profile",
       "description": "Official public GitHub Pages domain profile for Taktum.io.",
+      "about": {
+        "@id": "https://taktum.io/#organization"
+      },
+      "mainEntity": {
+        "@id": "https://taktum.io/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://clevenger-industries-llc.github.io/taktum.io/official-domain/#webpage",
+      "url": "https://clevenger-industries-llc.github.io/taktum.io/official-domain/",
+      "name": "Taktum.io official domain GitHub Pages reference",
+      "description": "Official GitHub Pages reference confirming that taktum.io is the canonical Taktum domain.",
+      "about": {
+        "@id": "https://taktum.io/#organization"
+      },
+      "mainEntity": {
+        "@id": "https://taktum.io/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://clevenger-industries-llc.github.io/taktum.io/search-entity-reference/#webpage",
+      "url": "https://clevenger-industries-llc.github.io/taktum.io/search-entity-reference/",
+      "name": "Taktum.io search entity GitHub Pages reference",
+      "description": "Official GitHub Pages reference mapping Taktum to taktum.io for search and AI entity recognition.",
+      "about": {
+        "@id": "https://taktum.io/#organization"
+      },
+      "mainEntity": {
+        "@id": "https://taktum.io/#organization"
+      }
+    },
+    {
+      "@type": "AboutPage",
+      "@id": "https://clevenger-industries-llc.github.io/taktum.io/investor-reference/#webpage",
+      "url": "https://clevenger-industries-llc.github.io/taktum.io/investor-reference/",
+      "name": "Taktum.io investor GitHub Pages reference",
+      "description": "Official GitHub Pages investor reference for Taktum.io and Taktum.",
       "about": {
         "@id": "https://taktum.io/#organization"
       },
