@@ -27,6 +27,10 @@
         "https://taktum.io/official-updates",
         "https://taktum.io/taktum.json",
         "https://taktum.io/.well-known/taktum.json",
+        "https://taktum.io/investor-profile.json",
+        "https://taktum.io/.well-known/company-profile.json",
+        "https://taktum.io/humans.txt",
+        "https://taktum.io/.well-known/security.txt",
         "https://taktum.io/feed.xml",
         "https://github.com/Clevenger-Industries-LLC",
         "https://github.com/Clevenger-Industries-LLC/taktum",
@@ -46,7 +50,8 @@
         "https://clevenger-industries-llc.github.io/taktum.io/official-domain/",
         "https://clevenger-industries-llc.github.io/taktum.io/search-entity-reference/",
         "https://clevenger-industries-llc.github.io/taktum.io/investor-reference/",
-        "https://www.clevenger.cloud/taktum/"
+        "https://www.clevenger.cloud/taktum/",
+        "https://www.clevenger.cloud/taktum-official-website/"
       ],
       "knowsAbout": [
         "Taktum",
@@ -103,6 +108,11 @@
         },
         {
           "@type": "WebPage",
+          "name": "Clevenger confirms taktum.io as the official Taktum website",
+          "url": "https://www.clevenger.cloud/taktum-official-website/"
+        },
+        {
+          "@type": "WebPage",
           "name": "Taktum.io official domain GitHub Pages reference",
           "url": "https://clevenger-industries-llc.github.io/taktum.io/official-domain/"
         },
@@ -121,6 +131,12 @@
           "name": "Taktum machine-readable entity profile",
           "contentUrl": "https://taktum.io/taktum.json",
           "encodingFormat": "application/ld+json"
+        },
+        {
+          "@type": "DataDownload",
+          "name": "Taktum investor and company profile JSON",
+          "contentUrl": "https://taktum.io/investor-profile.json",
+          "encodingFormat": "application/json"
         },
         {
           "@type": "DigitalDocument",
@@ -185,8 +201,13 @@
         "https://taktum.io/official-profiles",
         "https://taktum.io/official-updates",
         "https://www.clevenger.cloud/taktum/",
+        "https://www.clevenger.cloud/taktum-official-website/",
         "https://taktum.io/taktum.json",
+        "https://taktum.io/investor-profile.json",
+        "https://taktum.io/.well-known/company-profile.json",
         "https://taktum.io/llms.txt",
+        "https://taktum.io/humans.txt",
+        "https://taktum.io/.well-known/security.txt",
         "https://taktum.io/feed.xml",
         "https://clevenger-industries-llc.github.io/taktum.io/",
         "https://clevenger-industries-llc.github.io/taktum.io/official-domain/",
