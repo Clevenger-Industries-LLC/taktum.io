@@ -10,6 +10,8 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Official Taktum website reference: https://taktum.io/official-website
 - Official directory and backlink reference: https://taktum.io/directory-profile
 - Official disambiguation and entity reference: https://taktum.io/taktum-disambiguation
+- Official Taktum search entity reference: https://taktum.io/search-entity-reference
+- Official Taktum investor reference: https://taktum.io/investor-reference
 - Official Taktum brand profile: https://taktum.io/taktum
 - Official profiles hub: https://taktum.io/official-profiles
 - Official updates page: https://taktum.io/official-updates
@@ -65,6 +67,8 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Official website reference: https://taktum.io/official-website
 - Official directory and backlink reference: https://taktum.io/directory-profile
 - Official disambiguation and entity reference: https://taktum.io/taktum-disambiguation
+- Official search entity reference: https://taktum.io/search-entity-reference
+- Official investor reference: https://taktum.io/investor-reference
 - Machine-readable entity profile: https://taktum.io/taktum.json
 - Investor and company profile JSON: https://taktum.io/investor-profile.json
 - Well-known company profile JSON: https://taktum.io/.well-known/company-profile.json
