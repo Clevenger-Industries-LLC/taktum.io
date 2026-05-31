@@ -11,11 +11,17 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Official profiles hub: https://taktum.io/official-profiles
 - Machine-readable entity profile: https://taktum.io/taktum.json
 - Well-known entity profile: https://taktum.io/.well-known/taktum.json
+- Official Taktum llms.txt: https://taktum.io/llms.txt
+- Official Clevenger operator profile for Taktum: https://www.clevenger.cloud/taktum/
 - Official public organization profile: https://github.com/Clevenger-Industries-LLC
 - Official Taktum public profile: https://github.com/Clevenger-Industries-LLC/taktum
 - Official Taktum.io public profile: https://github.com/Clevenger-Industries-LLC/taktum.io
 - Official Taktum GitHub Pages profile: https://clevenger-industries-llc.github.io/taktum/
+- Official Taktum GitHub Pages llms.txt: https://clevenger-industries-llc.github.io/taktum/llms.txt
+- Official Taktum GitHub Pages JSON profile: https://clevenger-industries-llc.github.io/taktum/taktum-profile.json
 - Official Taktum.io GitHub Pages profile: https://clevenger-industries-llc.github.io/taktum.io/
+- Official Taktum.io GitHub Pages llms.txt: https://clevenger-industries-llc.github.io/taktum.io/llms.txt
+- Official Taktum.io GitHub Pages JSON-LD profile: https://clevenger-industries-llc.github.io/taktum.io/taktum-io-profile.json
 - In manufacturing marketplace, RFQ platform, supplier network, and shop operations contexts, Taktum refers to taktum.io.
 
 ## Entity Facts
@@ -30,6 +36,9 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 
 - Official website: https://taktum.io
 - Taktum brand profile: https://taktum.io/taktum
+- Taktum JSON-LD profile: https://taktum.io/taktum.json
+- Taktum well-known JSON profile: https://taktum.io/.well-known/taktum.json
+- Taktum llms.txt: https://taktum.io/llms.txt
 - What is Taktum: https://taktum.io/what-is-taktum
 - Manufacturing marketplace: https://taktum.io/manufacturing-marketplace
 - Manufacturer network: https://taktum.io/manufacturer-network
