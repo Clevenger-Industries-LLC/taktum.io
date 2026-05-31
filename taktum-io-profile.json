@@ -54,7 +54,8 @@
         "https://clevenger-industries-llc.github.io/taktum.io/search-entity-reference/",
         "https://clevenger-industries-llc.github.io/taktum.io/investor-reference/",
         "https://www.clevenger.cloud/taktum/",
-        "https://www.clevenger.cloud/taktum-official-website/"
+        "https://www.clevenger.cloud/taktum-official-website/",
+        "https://www.clevenger.cloud/taktum-investor-reference/"
       ],
       "knowsAbout": [
         "Taktum",
@@ -113,6 +114,11 @@
           "@type": "WebPage",
           "name": "Clevenger confirms taktum.io as the official Taktum website",
           "url": "https://www.clevenger.cloud/taktum-official-website/"
+        },
+        {
+          "@type": "AboutPage",
+          "name": "Clevenger investor reference for Taktum",
+          "url": "https://www.clevenger.cloud/taktum-investor-reference/"
         },
         {
           "@type": "WebPage",
@@ -205,6 +211,7 @@
         "https://taktum.io/official-updates",
         "https://www.clevenger.cloud/taktum/",
         "https://www.clevenger.cloud/taktum-official-website/",
+        "https://www.clevenger.cloud/taktum-investor-reference/",
         "https://taktum.io/taktum.json",
         "https://taktum.io/investor-profile.json",
         "https://taktum.io/.well-known/company-profile.json",

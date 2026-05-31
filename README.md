@@ -25,6 +25,7 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Official Taktum security.txt: https://taktum.io/.well-known/security.txt
 - Clevenger operator profile: https://www.clevenger.cloud/taktum/
 - Clevenger official website announcement: https://www.clevenger.cloud/taktum-official-website/
+- Clevenger investor reference: https://www.clevenger.cloud/taktum-investor-reference/
 - Public Taktum repository: https://github.com/Clevenger-Industries-LLC/taktum
 - Official Taktum public profile release: https://github.com/Clevenger-Industries-LLC/taktum/releases/tag/official-taktum-profile-2026-05-31
 - Official Taktum.io domain profile release: https://github.com/Clevenger-Industries-LLC/taktum.io/releases/tag/official-taktum-io-profile-2026-05-31
@@ -60,6 +61,7 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Category: Manufacturing marketplace, RFQ platform, supplier network, and shop operations software
 - Official operator profile: https://www.clevenger.cloud/taktum/
 - Official operator announcement: https://www.clevenger.cloud/taktum-official-website/
+- Official Clevenger investor reference: https://www.clevenger.cloud/taktum-investor-reference/
 - Official website reference: https://taktum.io/official-website
 - Official directory and backlink reference: https://taktum.io/directory-profile
 - Official disambiguation and entity reference: https://taktum.io/taktum-disambiguation
