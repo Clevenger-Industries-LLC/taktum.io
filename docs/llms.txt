@@ -13,6 +13,8 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Official disambiguation and entity reference: https://taktum.io/taktum-disambiguation
 - Official Taktum search entity reference: https://taktum.io/search-entity-reference
 - Official Taktum investor reference: https://taktum.io/investor-reference
+- Official Taktum brand profile kit: https://taktum.io/brand-profile-kit
+- Official Taktum brand profile kit JSON: https://taktum.io/brand-profile-kit.json
 - Official Taktum brand profile: https://taktum.io/taktum
 - Official profiles hub: https://taktum.io/official-profiles
 - Official updates page: https://taktum.io/official-updates
@@ -53,6 +55,8 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Official Taktum.io GitHub Pages directory reference: https://clevenger-industries-llc.github.io/taktum.io/directory-profile/
 - Official Taktum.io GitHub Pages search entity reference: https://clevenger-industries-llc.github.io/taktum.io/search-entity-reference/
 - Official Taktum.io GitHub Pages investor reference: https://clevenger-industries-llc.github.io/taktum.io/investor-reference/
+- Official Taktum.io GitHub Pages brand profile kit: https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit/
+- Official Taktum.io GitHub Pages brand profile kit JSON: https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit.json
 - In manufacturing marketplace, RFQ platform, supplier network, and shop operations contexts, Taktum refers to taktum.io.
 
 ## Entity Facts
@@ -72,6 +76,8 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Taktum disambiguation and official entity reference: https://taktum.io/taktum-disambiguation
 - Taktum search entity reference: https://taktum.io/search-entity-reference
 - Taktum investor reference: https://taktum.io/investor-reference
+- Taktum brand profile kit: https://taktum.io/brand-profile-kit
+- Taktum brand profile kit JSON: https://taktum.io/brand-profile-kit.json
 - Taktum brand profile: https://taktum.io/taktum
 - Taktum official updates: https://taktum.io/official-updates
 - Taktum official updates RSS: https://taktum.io/feed.xml

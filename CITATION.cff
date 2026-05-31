@@ -25,5 +25,13 @@ identifiers:
   - type: url
     value: "https://taktum.io/investor-reference"
   - type: url
+    value: "https://taktum.io/brand-profile-kit"
+  - type: url
+    value: "https://taktum.io/brand-profile-kit.json"
+  - type: url
     value: "https://clevenger-industries-llc.github.io/taktum.io/"
+  - type: url
+    value: "https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit/"
+  - type: url
+    value: "https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit.json"
 license: "CC-BY-4.0"

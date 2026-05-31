@@ -1,0 +1,47 @@
+{
+  "name": "Taktum",
+  "canonicalDomain": "taktum.io",
+  "officialWebsite": "https://taktum.io",
+  "legalOperator": "Clevenger Industries LLC",
+  "profileKitUrl": "https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit/",
+  "profileKitJsonUrl": "https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit.json",
+  "canonicalProfileKitUrl": "https://taktum.io/brand-profile-kit",
+  "canonicalProfileKitJsonUrl": "https://taktum.io/brand-profile-kit.json",
+  "shortDescription": "Taktum is a manufacturing marketplace and shop operations platform that connects customers with qualified manufacturers while managing quoting, production, fulfillment, and supplier performance.",
+  "socialBio": "Taktum is a manufacturing marketplace and shop operations platform for RFQs, supplier routing, production tracking, fulfillment, and manufacturer performance.",
+  "productTagline": "Manufacturing marketplace and shop operations platform.",
+  "categories": [
+    "Manufacturing Marketplace",
+    "Manufacturing Network",
+    "Supplier Network",
+    "RFQ Platform",
+    "Shop Management Software",
+    "Manufacturing Workflow Software"
+  ],
+  "profileTargets": [
+    "LinkedIn company profile",
+    "Product Hunt product profile",
+    "Crunchbase organization profile",
+    "X brand profile",
+    "Facebook business profile",
+    "Manufacturing directories",
+    "Local business directories",
+    "Manufacturing community profiles"
+  ],
+  "canonicalLinks": {
+    "website": "https://taktum.io",
+    "brandProfileKit": "https://taktum.io/brand-profile-kit",
+    "brandProfileKitJson": "https://taktum.io/brand-profile-kit.json",
+    "searchEntityReference": "https://taktum.io/search-entity-reference",
+    "investorReference": "https://taktum.io/investor-reference",
+    "directoryProfile": "https://taktum.io/directory-profile",
+    "officialProfiles": "https://taktum.io/official-profiles",
+    "officialUpdates": "https://taktum.io/official-updates",
+    "githubTaktumProfile": "https://github.com/Clevenger-Industries-LLC/taktum",
+    "githubTaktumIoProfile": "https://github.com/Clevenger-Industries-LLC/taktum.io",
+    "githubOrganization": "https://github.com/Clevenger-Industries-LLC"
+  },
+  "contact": {
+    "email": "support@taktum.io"
+  }
+}

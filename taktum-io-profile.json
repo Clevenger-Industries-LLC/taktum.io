@@ -22,6 +22,8 @@
         "https://taktum.io/official-website",
         "https://taktum.io/directory-profile",
         "https://taktum.io/directory-profile.json",
+        "https://taktum.io/brand-profile-kit",
+        "https://taktum.io/brand-profile-kit.json",
         "https://taktum.io/taktum-disambiguation",
         "https://taktum.io/taktum",
         "https://taktum.io/official-profiles",
@@ -57,6 +59,8 @@
         "https://clevenger-industries-llc.github.io/taktum.io/directory-profile/",
         "https://clevenger-industries-llc.github.io/taktum.io/search-entity-reference/",
         "https://clevenger-industries-llc.github.io/taktum.io/investor-reference/",
+        "https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit/",
+        "https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit.json",
         "https://www.clevenger.cloud/taktum/",
         "https://www.clevenger.cloud/taktum-official-website/",
         "https://www.clevenger.cloud/taktum-investor-reference/"
@@ -93,6 +97,17 @@
           "@type": "DataDownload",
           "name": "Taktum directory profile JSON",
           "contentUrl": "https://taktum.io/directory-profile.json",
+          "encodingFormat": "application/json"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Taktum brand profile kit",
+          "url": "https://taktum.io/brand-profile-kit"
+        },
+        {
+          "@type": "DataDownload",
+          "name": "Taktum brand profile kit JSON",
+          "contentUrl": "https://taktum.io/brand-profile-kit.json",
           "encodingFormat": "application/json"
         },
         {
@@ -146,6 +161,17 @@
           "name": "Taktum.io GitHub Pages citation metadata",
           "url": "https://clevenger-industries-llc.github.io/taktum.io/CITATION.cff",
           "encodingFormat": "text/plain"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Taktum.io GitHub Pages brand profile kit",
+          "url": "https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit/"
+        },
+        {
+          "@type": "DataDownload",
+          "name": "Taktum.io GitHub Pages brand profile kit JSON",
+          "contentUrl": "https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit.json",
+          "encodingFormat": "application/json"
         },
         {
           "@type": "WebPage",
@@ -233,6 +259,8 @@
         "https://taktum.io/official-website",
         "https://taktum.io/directory-profile",
         "https://taktum.io/directory-profile.json",
+        "https://taktum.io/brand-profile-kit",
+        "https://taktum.io/brand-profile-kit.json",
         "https://taktum.io/taktum-disambiguation",
         "https://taktum.io/taktum",
         "https://taktum.io/official-profiles",
@@ -256,7 +284,9 @@
         "https://clevenger-industries-llc.github.io/taktum.io/CITATION.cff",
         "https://clevenger-industries-llc.github.io/taktum.io/directory-profile/",
         "https://clevenger-industries-llc.github.io/taktum.io/search-entity-reference/",
-        "https://clevenger-industries-llc.github.io/taktum.io/investor-reference/"
+        "https://clevenger-industries-llc.github.io/taktum.io/investor-reference/",
+        "https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit/",
+        "https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit.json"
       ],
       "identifier": [
         {
@@ -342,6 +372,29 @@
         "@id": "https://taktum.io/#organization"
       },
       "mainEntity": {
+        "@id": "https://taktum.io/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit/#webpage",
+      "url": "https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit/",
+      "name": "Taktum.io brand profile kit GitHub Pages reference",
+      "description": "Official GitHub Pages reference with copy-ready public profile facts for Taktum and the taktum.io domain.",
+      "about": {
+        "@id": "https://taktum.io/#organization"
+      },
+      "mainEntity": {
+        "@id": "https://taktum.io/#organization"
+      }
+    },
+    {
+      "@type": "DataDownload",
+      "@id": "https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit.json#data",
+      "url": "https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit.json",
+      "name": "Taktum.io brand profile kit JSON",
+      "encodingFormat": "application/json",
+      "about": {
         "@id": "https://taktum.io/#organization"
       }
     }
