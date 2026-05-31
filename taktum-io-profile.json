@@ -20,6 +20,7 @@
       "sameAs": [
         "https://taktum.io/",
         "https://taktum.io/official-website",
+        "https://taktum.io/directory-profile",
         "https://taktum.io/taktum",
         "https://taktum.io/official-profiles",
         "https://taktum.io/official-updates",
@@ -65,6 +66,11 @@
           "@type": "WebPage",
           "name": "Taktum official website",
           "url": "https://taktum.io/official-website"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Taktum directory profile and backlink reference",
+          "url": "https://taktum.io/directory-profile"
         },
         {
           "@type": "WebPage",
@@ -149,6 +155,7 @@
       },
       "sameAs": [
         "https://taktum.io/official-website",
+        "https://taktum.io/directory-profile",
         "https://taktum.io/taktum",
         "https://taktum.io/official-profiles",
         "https://taktum.io/official-updates",
