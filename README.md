@@ -29,6 +29,9 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Official Taktum public profile release: https://github.com/Clevenger-Industries-LLC/taktum/releases/tag/official-taktum-profile-2026-05-31
 - Official Taktum.io domain profile release: https://github.com/Clevenger-Industries-LLC/taktum.io/releases/tag/official-taktum-io-profile-2026-05-31
 - Official Clevenger Taktum organization profile release: https://github.com/Clevenger-Industries-LLC/.github/releases/tag/official-taktum-org-profile-2026-05-31
+- Official Taktum trust-file release: https://github.com/Clevenger-Industries-LLC/taktum/releases/tag/official-taktum-trust-files-2026-05-31
+- Official Taktum.io trust-file release: https://github.com/Clevenger-Industries-LLC/taktum.io/releases/tag/official-taktum-io-trust-files-2026-05-31
+- Official Clevenger Taktum trust-file release: https://github.com/Clevenger-Industries-LLC/.github/releases/tag/official-taktum-org-trust-files-2026-05-31
 - Official Taktum public issue reference: https://github.com/Clevenger-Industries-LLC/taktum/issues/5
 - Official Taktum.io public issue reference: https://github.com/Clevenger-Industries-LLC/taktum.io/issues/3
 - Official Clevenger Taktum public issue reference: https://github.com/Clevenger-Industries-LLC/.github/issues/3
