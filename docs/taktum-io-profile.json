@@ -14,6 +14,7 @@
   "url": "https://taktum.io/",
   "sameAs": [
     "https://taktum.io/taktum",
+    "https://taktum.io/official-profiles",
     "https://taktum.io/taktum.json",
     "https://taktum.io/.well-known/taktum.json",
     "https://github.com/Clevenger-Industries-LLC",
@@ -38,5 +39,27 @@
     "email": "support@taktum.io",
     "contactType": "customer support",
     "url": "https://taktum.io/contact"
-  }
+  },
+  "subjectOf": [
+    {
+      "@type": "WebPage",
+      "name": "Official Taktum profiles and public references",
+      "url": "https://taktum.io/official-profiles"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Taktum pricing for clients and manufacturers",
+      "url": "https://taktum.io/pricing"
+    },
+    {
+      "@type": "WebPage",
+      "name": "For manufacturers: Taktum manufacturer network",
+      "url": "https://taktum.io/for-manufacturers"
+    },
+    {
+      "@type": "WebPage",
+      "name": "For clients: Taktum manufacturing marketplace",
+      "url": "https://taktum.io/for-clients"
+    }
+  ]
 }

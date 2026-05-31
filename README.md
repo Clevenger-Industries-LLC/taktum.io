@@ -8,6 +8,7 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 
 - Official website: https://taktum.io
 - Official Taktum brand profile: https://taktum.io/taktum
+- Official profiles hub: https://taktum.io/official-profiles
 - Machine-readable entity profile: https://taktum.io/taktum.json
 - Well-known entity profile: https://taktum.io/.well-known/taktum.json
 - Public Taktum repository: https://github.com/Clevenger-Industries-LLC/taktum
@@ -15,6 +16,14 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Taktum.io GitHub Pages llms.txt: https://clevenger-industries-llc.github.io/taktum.io/llms.txt
 - Taktum.io GitHub Pages JSON-LD profile: https://clevenger-industries-llc.github.io/taktum.io/taktum-io-profile.json
 - Clevenger Industries GitHub organization: https://github.com/Clevenger-Industries-LLC
+- What is Taktum: https://taktum.io/what-is-taktum
+- Manufacturing marketplace: https://taktum.io/manufacturing-marketplace
+- For clients: https://taktum.io/for-clients
+- For manufacturers: https://taktum.io/for-manufacturers
+- Pricing: https://taktum.io/pricing
+- MCRS: https://taktum.io/mcrs
+- Investors: https://taktum.io/investors
+- Press and company facts: https://taktum.io/press
 
 ## Entity Facts
 
