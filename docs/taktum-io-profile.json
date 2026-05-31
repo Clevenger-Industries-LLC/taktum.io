@@ -19,6 +19,7 @@
       "email": "support@taktum.io",
       "sameAs": [
         "https://taktum.io/",
+        "https://taktum.io/official-website",
         "https://taktum.io/taktum",
         "https://taktum.io/official-profiles",
         "https://taktum.io/official-updates",
@@ -60,6 +61,11 @@
         "url": "https://taktum.io/contact"
       },
       "subjectOf": [
+        {
+          "@type": "WebPage",
+          "name": "Taktum official website",
+          "url": "https://taktum.io/official-website"
+        },
         {
           "@type": "WebPage",
           "name": "Official Taktum brand profile",
@@ -142,6 +148,7 @@
         "@id": "https://taktum.io/#organization"
       },
       "sameAs": [
+        "https://taktum.io/official-website",
         "https://taktum.io/taktum",
         "https://taktum.io/official-profiles",
         "https://taktum.io/official-updates",

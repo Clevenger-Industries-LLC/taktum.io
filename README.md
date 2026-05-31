@@ -7,6 +7,7 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 ## Official Links
 
 - Official website: https://taktum.io
+- Official Taktum website reference: https://taktum.io/official-website
 - Official Taktum brand profile: https://taktum.io/taktum
 - Official profiles hub: https://taktum.io/official-profiles
 - Official updates page: https://taktum.io/official-updates
@@ -45,6 +46,7 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Legal operator: Clevenger Industries LLC
 - Category: Manufacturing marketplace, RFQ platform, supplier network, and shop operations software
 - Official operator profile: https://www.clevenger.cloud/taktum/
+- Official website reference: https://taktum.io/official-website
 - Machine-readable entity profile: https://taktum.io/taktum.json
 - Official updates page: https://taktum.io/official-updates
 - Official updates RSS feed: https://taktum.io/feed.xml
