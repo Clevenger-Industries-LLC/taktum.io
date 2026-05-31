@@ -9,6 +9,7 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Official website: https://taktum.io
 - Official Taktum website reference: https://taktum.io/official-website
 - Official directory and backlink reference: https://taktum.io/directory-profile
+- Official directory profile JSON: https://taktum.io/directory-profile.json
 - Official disambiguation and entity reference: https://taktum.io/taktum-disambiguation
 - Official Taktum search entity reference: https://taktum.io/search-entity-reference
 - Official Taktum investor reference: https://taktum.io/investor-reference
@@ -43,6 +44,7 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Taktum.io GitHub Pages llms.txt: https://clevenger-industries-llc.github.io/taktum.io/llms.txt
 - Taktum.io GitHub Pages JSON-LD profile: https://clevenger-industries-llc.github.io/taktum.io/taktum-io-profile.json
 - Taktum.io GitHub Pages official domain reference: https://clevenger-industries-llc.github.io/taktum.io/official-domain/
+- Taktum.io GitHub Pages directory reference: https://clevenger-industries-llc.github.io/taktum.io/directory-profile/
 - Taktum.io GitHub Pages search entity reference: https://clevenger-industries-llc.github.io/taktum.io/search-entity-reference/
 - Taktum.io GitHub Pages investor reference: https://clevenger-industries-llc.github.io/taktum.io/investor-reference/
 - Clevenger Industries GitHub organization: https://github.com/Clevenger-Industries-LLC
@@ -66,6 +68,7 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Official Clevenger investor reference: https://www.clevenger.cloud/taktum-investor-reference/
 - Official website reference: https://taktum.io/official-website
 - Official directory and backlink reference: https://taktum.io/directory-profile
+- Official directory profile JSON: https://taktum.io/directory-profile.json
 - Official disambiguation and entity reference: https://taktum.io/taktum-disambiguation
 - Official search entity reference: https://taktum.io/search-entity-reference
 - Official investor reference: https://taktum.io/investor-reference
@@ -80,6 +83,7 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Taktum humans.txt: https://taktum.io/humans.txt
 - Taktum security.txt: https://taktum.io/.well-known/security.txt
 - Taktum.io GitHub Pages official domain reference: https://clevenger-industries-llc.github.io/taktum.io/official-domain/
+- Taktum.io GitHub Pages directory reference: https://clevenger-industries-llc.github.io/taktum.io/directory-profile/
 - Taktum.io GitHub Pages search entity reference: https://clevenger-industries-llc.github.io/taktum.io/search-entity-reference/
 - Taktum.io GitHub Pages investor reference: https://clevenger-industries-llc.github.io/taktum.io/investor-reference/
 - Contact: support@taktum.io

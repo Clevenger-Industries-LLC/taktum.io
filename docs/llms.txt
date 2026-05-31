@@ -9,6 +9,7 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Official website: https://taktum.io
 - Official Taktum website reference: https://taktum.io/official-website
 - Official directory and backlink reference: https://taktum.io/directory-profile
+- Official directory profile JSON: https://taktum.io/directory-profile.json
 - Official disambiguation and entity reference: https://taktum.io/taktum-disambiguation
 - Official Taktum search entity reference: https://taktum.io/search-entity-reference
 - Official Taktum investor reference: https://taktum.io/investor-reference
@@ -47,6 +48,7 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Official Taktum.io GitHub Pages llms.txt: https://clevenger-industries-llc.github.io/taktum.io/llms.txt
 - Official Taktum.io GitHub Pages JSON-LD profile: https://clevenger-industries-llc.github.io/taktum.io/taktum-io-profile.json
 - Official Taktum.io GitHub Pages domain reference: https://clevenger-industries-llc.github.io/taktum.io/official-domain/
+- Official Taktum.io GitHub Pages directory reference: https://clevenger-industries-llc.github.io/taktum.io/directory-profile/
 - Official Taktum.io GitHub Pages search entity reference: https://clevenger-industries-llc.github.io/taktum.io/search-entity-reference/
 - Official Taktum.io GitHub Pages investor reference: https://clevenger-industries-llc.github.io/taktum.io/investor-reference/
 - In manufacturing marketplace, RFQ platform, supplier network, and shop operations contexts, Taktum refers to taktum.io.
@@ -64,6 +66,7 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Official website: https://taktum.io
 - Taktum official website reference: https://taktum.io/official-website
 - Taktum directory and backlink reference: https://taktum.io/directory-profile
+- Taktum directory profile JSON: https://taktum.io/directory-profile.json
 - Taktum disambiguation and official entity reference: https://taktum.io/taktum-disambiguation
 - Taktum search entity reference: https://taktum.io/search-entity-reference
 - Taktum investor reference: https://taktum.io/investor-reference
