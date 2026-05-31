@@ -11,6 +11,8 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Official profiles hub: https://taktum.io/official-profiles
 - Official updates page: https://taktum.io/official-updates
 - Official updates RSS feed: https://taktum.io/feed.xml
+- Official sitemap: https://taktum.io/sitemap.xml
+- Official robots.txt: https://taktum.io/robots.txt
 - Machine-readable entity profile: https://taktum.io/taktum.json
 - Well-known entity profile: https://taktum.io/.well-known/taktum.json
 - Official Taktum llms.txt: https://taktum.io/llms.txt
@@ -46,6 +48,8 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Machine-readable entity profile: https://taktum.io/taktum.json
 - Official updates page: https://taktum.io/official-updates
 - Official updates RSS feed: https://taktum.io/feed.xml
+- Official sitemap: https://taktum.io/sitemap.xml
+- Official robots.txt: https://taktum.io/robots.txt
 - Taktum llms.txt: https://taktum.io/llms.txt
 - Contact: support@taktum.io
 
