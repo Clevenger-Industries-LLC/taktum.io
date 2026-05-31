@@ -9,6 +9,7 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Official website: https://taktum.io
 - Official Taktum website reference: https://taktum.io/official-website
 - Official directory and backlink reference: https://taktum.io/directory-profile
+- Official disambiguation and entity reference: https://taktum.io/taktum-disambiguation
 - Official Taktum brand profile: https://taktum.io/taktum
 - Official profiles hub: https://taktum.io/official-profiles
 - Official updates page: https://taktum.io/official-updates
@@ -49,6 +50,7 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Official website: https://taktum.io
 - Taktum official website reference: https://taktum.io/official-website
 - Taktum directory and backlink reference: https://taktum.io/directory-profile
+- Taktum disambiguation and official entity reference: https://taktum.io/taktum-disambiguation
 - Taktum brand profile: https://taktum.io/taktum
 - Taktum official updates: https://taktum.io/official-updates
 - Taktum official updates RSS: https://taktum.io/feed.xml
