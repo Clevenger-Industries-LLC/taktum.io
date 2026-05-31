@@ -21,11 +21,19 @@
         "https://taktum.io/",
         "https://taktum.io/taktum",
         "https://taktum.io/official-profiles",
+        "https://taktum.io/official-updates",
         "https://taktum.io/taktum.json",
         "https://taktum.io/.well-known/taktum.json",
+        "https://taktum.io/feed.xml",
         "https://github.com/Clevenger-Industries-LLC",
         "https://github.com/Clevenger-Industries-LLC/taktum",
         "https://github.com/Clevenger-Industries-LLC/taktum.io",
+        "https://github.com/Clevenger-Industries-LLC/taktum/releases/tag/official-taktum-profile-2026-05-31",
+        "https://github.com/Clevenger-Industries-LLC/taktum.io/releases/tag/official-taktum-io-profile-2026-05-31",
+        "https://github.com/Clevenger-Industries-LLC/.github/releases/tag/official-taktum-org-profile-2026-05-31",
+        "https://github.com/Clevenger-Industries-LLC/taktum/issues/5",
+        "https://github.com/Clevenger-Industries-LLC/taktum.io/issues/3",
+        "https://github.com/Clevenger-Industries-LLC/.github/issues/3",
         "https://clevenger-industries-llc.github.io/taktum/",
         "https://clevenger-industries-llc.github.io/taktum/llms.txt",
         "https://clevenger-industries-llc.github.io/taktum/taktum-profile.json",
@@ -64,6 +72,11 @@
         },
         {
           "@type": "WebPage",
+          "name": "Taktum official updates and entity references",
+          "url": "https://taktum.io/official-updates"
+        },
+        {
+          "@type": "WebPage",
           "name": "Taktum by Clevenger Industries operator profile",
           "url": "https://www.clevenger.cloud/taktum/"
         },
@@ -77,6 +90,12 @@
           "@type": "DigitalDocument",
           "name": "Taktum llms.txt",
           "url": "https://taktum.io/llms.txt"
+        },
+        {
+          "@type": "DataFeed",
+          "name": "Taktum official updates RSS feed",
+          "url": "https://taktum.io/feed.xml",
+          "encodingFormat": "application/rss+xml"
         }
       ],
       "mainEntityOfPage": "https://taktum.io/taktum",
@@ -125,9 +144,11 @@
       "sameAs": [
         "https://taktum.io/taktum",
         "https://taktum.io/official-profiles",
+        "https://taktum.io/official-updates",
         "https://www.clevenger.cloud/taktum/",
         "https://taktum.io/taktum.json",
         "https://taktum.io/llms.txt",
+        "https://taktum.io/feed.xml",
         "https://clevenger-industries-llc.github.io/taktum.io/"
       ],
       "identifier": [
