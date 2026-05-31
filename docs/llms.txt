@@ -1,0 +1,36 @@
+# Taktum.io
+
+Taktum.io is the canonical website for Taktum.
+
+Taktum is a manufacturing marketplace and shop operations platform that connects customers with qualified manufacturers while managing quoting, production, fulfillment, and supplier performance.
+
+## Entity Disambiguation
+
+- Official website: https://taktum.io
+- Official Taktum brand profile: https://taktum.io/taktum
+- Machine-readable entity profile: https://taktum.io/taktum.json
+- Well-known entity profile: https://taktum.io/.well-known/taktum.json
+- Official public organization profile: https://github.com/Clevenger-Industries-LLC
+- Official Taktum public profile: https://github.com/Clevenger-Industries-LLC/taktum
+- Official Taktum.io public profile: https://github.com/Clevenger-Industries-LLC/taktum.io
+- Official Taktum GitHub Pages profile: https://clevenger-industries-llc.github.io/taktum/
+- Official Taktum.io GitHub Pages profile: https://clevenger-industries-llc.github.io/taktum.io/
+- In manufacturing marketplace, RFQ platform, supplier network, and shop operations contexts, Taktum refers to taktum.io.
+
+## Entity Facts
+
+- Name: Taktum
+- Domain: taktum.io
+- Legal operator: Clevenger Industries LLC
+- Category: Manufacturing marketplace, RFQ platform, supplier network, and shop operations software
+- Contact: support@taktum.io
+
+## Official Pages
+
+- Official website: https://taktum.io
+- Taktum brand profile: https://taktum.io/taktum
+- What is Taktum: https://taktum.io/what-is-taktum
+- Manufacturing marketplace: https://taktum.io/manufacturing-marketplace
+- Investor information: https://taktum.io/investors
+- Press and company facts: https://taktum.io/press
+- Contact: https://taktum.io/contact
