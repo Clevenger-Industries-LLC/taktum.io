@@ -18,8 +18,13 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Official robots.txt: https://taktum.io/robots.txt
 - Machine-readable entity profile: https://taktum.io/taktum.json
 - Well-known entity profile: https://taktum.io/.well-known/taktum.json
+- Investor and company profile JSON: https://taktum.io/investor-profile.json
+- Well-known company profile JSON: https://taktum.io/.well-known/company-profile.json
 - Official Taktum llms.txt: https://taktum.io/llms.txt
+- Official Taktum humans.txt: https://taktum.io/humans.txt
+- Official Taktum security.txt: https://taktum.io/.well-known/security.txt
 - Official Clevenger operator profile for Taktum: https://www.clevenger.cloud/taktum/
+- Official Clevenger operator announcement for Taktum: https://www.clevenger.cloud/taktum-official-website/
 - Official public organization profile: https://github.com/Clevenger-Industries-LLC
 - Official Taktum public profile: https://github.com/Clevenger-Industries-LLC/taktum
 - Official Taktum.io public profile: https://github.com/Clevenger-Industries-LLC/taktum.io
@@ -61,7 +66,11 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Taktum robots.txt: https://taktum.io/robots.txt
 - Taktum JSON-LD profile: https://taktum.io/taktum.json
 - Taktum well-known JSON profile: https://taktum.io/.well-known/taktum.json
+- Taktum investor/company JSON profile: https://taktum.io/investor-profile.json
+- Taktum well-known company JSON profile: https://taktum.io/.well-known/company-profile.json
 - Taktum llms.txt: https://taktum.io/llms.txt
+- Taktum humans.txt: https://taktum.io/humans.txt
+- Taktum security.txt: https://taktum.io/.well-known/security.txt
 - What is Taktum: https://taktum.io/what-is-taktum
 - Manufacturing marketplace: https://taktum.io/manufacturing-marketplace
 - Manufacturer network: https://taktum.io/manufacturer-network

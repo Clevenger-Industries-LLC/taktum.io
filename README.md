@@ -18,8 +18,13 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Official robots.txt: https://taktum.io/robots.txt
 - Machine-readable entity profile: https://taktum.io/taktum.json
 - Well-known entity profile: https://taktum.io/.well-known/taktum.json
+- Investor and company profile JSON: https://taktum.io/investor-profile.json
+- Well-known company profile JSON: https://taktum.io/.well-known/company-profile.json
 - Official Taktum llms.txt: https://taktum.io/llms.txt
+- Official Taktum humans.txt: https://taktum.io/humans.txt
+- Official Taktum security.txt: https://taktum.io/.well-known/security.txt
 - Clevenger operator profile: https://www.clevenger.cloud/taktum/
+- Clevenger official website announcement: https://www.clevenger.cloud/taktum-official-website/
 - Public Taktum repository: https://github.com/Clevenger-Industries-LLC/taktum
 - Official Taktum public profile release: https://github.com/Clevenger-Industries-LLC/taktum/releases/tag/official-taktum-profile-2026-05-31
 - Official Taktum.io domain profile release: https://github.com/Clevenger-Industries-LLC/taktum.io/releases/tag/official-taktum-io-profile-2026-05-31
@@ -51,15 +56,20 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Legal operator: Clevenger Industries LLC
 - Category: Manufacturing marketplace, RFQ platform, supplier network, and shop operations software
 - Official operator profile: https://www.clevenger.cloud/taktum/
+- Official operator announcement: https://www.clevenger.cloud/taktum-official-website/
 - Official website reference: https://taktum.io/official-website
 - Official directory and backlink reference: https://taktum.io/directory-profile
 - Official disambiguation and entity reference: https://taktum.io/taktum-disambiguation
 - Machine-readable entity profile: https://taktum.io/taktum.json
+- Investor and company profile JSON: https://taktum.io/investor-profile.json
+- Well-known company profile JSON: https://taktum.io/.well-known/company-profile.json
 - Official updates page: https://taktum.io/official-updates
 - Official updates RSS feed: https://taktum.io/feed.xml
 - Official sitemap: https://taktum.io/sitemap.xml
 - Official robots.txt: https://taktum.io/robots.txt
 - Taktum llms.txt: https://taktum.io/llms.txt
+- Taktum humans.txt: https://taktum.io/humans.txt
+- Taktum security.txt: https://taktum.io/.well-known/security.txt
 - Taktum.io GitHub Pages official domain reference: https://clevenger-industries-llc.github.io/taktum.io/official-domain/
 - Taktum.io GitHub Pages search entity reference: https://clevenger-industries-llc.github.io/taktum.io/search-entity-reference/
 - Taktum.io GitHub Pages investor reference: https://clevenger-industries-llc.github.io/taktum.io/investor-reference/
