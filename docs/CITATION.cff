@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Use this record to cite the official Taktum.io domain profile."
+title: "Taktum.io"
+type: software
+abstract: "Taktum.io is the canonical website for Taktum, a manufacturing marketplace and shop operations platform operated by Clevenger Industries LLC."
+authors:
+  - name: "Clevenger Industries LLC"
+date-released: "2026-05-31"
+url: "https://taktum.io"
+repository-code: "https://github.com/Clevenger-Industries-LLC/taktum.io"
+keywords:
+  - Taktum
+  - taktum.io
+  - manufacturing marketplace
+  - RFQ platform
+  - supplier network
+  - shop management software
+identifiers:
+  - type: url
+    value: "https://taktum.io"
+  - type: url
+    value: "https://taktum.io/official-website"
+  - type: url
+    value: "https://taktum.io/search-entity-reference"
+  - type: url
+    value: "https://taktum.io/investor-reference"
+  - type: url
+    value: "https://clevenger-industries-llc.github.io/taktum.io/"
+license: "CC-BY-4.0"

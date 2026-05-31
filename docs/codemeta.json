@@ -1,0 +1,55 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Taktum.io",
+  "alternateName": [
+    "Taktum",
+    "Taktum Manufacturing Marketplace",
+    "Taktum RFQ Platform",
+    "Taktum Shop Operations Platform"
+  ],
+  "description": "Taktum.io is the canonical website for Taktum, a manufacturing marketplace and shop operations platform operated by Clevenger Industries LLC.",
+  "url": "https://taktum.io",
+  "codeRepository": "https://github.com/Clevenger-Industries-LLC/taktum.io",
+  "identifier": "https://taktum.io/#organization",
+  "applicationCategory": "BusinessApplication",
+  "keywords": [
+    "Taktum",
+    "taktum.io",
+    "manufacturing marketplace",
+    "RFQ platform",
+    "supplier network",
+    "shop management software",
+    "manufacturing workflow software"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Clevenger Industries LLC",
+    "url": "https://www.clevenger.cloud/taktum/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Clevenger Industries LLC",
+    "url": "https://www.clevenger.cloud/taktum/"
+  },
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Taktum",
+    "url": "https://taktum.io"
+  },
+  "sameAs": [
+    "https://taktum.io",
+    "https://taktum.io/taktum",
+    "https://taktum.io/official-website",
+    "https://taktum.io/search-entity-reference",
+    "https://taktum.io/investor-reference",
+    "https://taktum.io/directory-profile",
+    "https://taktum.io/directory-profile.json",
+    "https://clevenger-industries-llc.github.io/taktum.io/",
+    "https://clevenger-industries-llc.github.io/taktum.io/taktum-io-profile.json",
+    "https://clevenger-industries-llc.github.io/taktum.io/directory-profile/",
+    "https://github.com/Clevenger-Industries-LLC/taktum.io",
+    "https://github.com/Clevenger-Industries-LLC/taktum",
+    "https://github.com/Clevenger-Industries-LLC"
+  ]
+}
