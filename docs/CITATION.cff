@@ -30,6 +30,10 @@ identifiers:
   - type: url
     value: "https://taktum.io/brand-profile-kit.json"
   - type: url
+    value: "https://www.producthunt.com/products/taktum?launch=taktum"
+  - type: url
+    value: "https://www.crunchbase.com/organization/taktum"
+  - type: url
     value: "https://taktum.io/resources"
   - type: url
     value: "https://taktum.io/resources/manufacturing-marketplace-guide"
