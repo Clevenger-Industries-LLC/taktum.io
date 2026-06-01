@@ -41,7 +41,9 @@
     "githubTaktumIoProfile": "https://github.com/Clevenger-Industries-LLC/taktum.io",
     "githubOrganization": "https://github.com/Clevenger-Industries-LLC",
     "resourceGuides": "https://taktum.io/resources",
-    "githubPagesResourceGuides": "https://clevenger-industries-llc.github.io/taktum.io/resources/"
+    "githubPagesResourceGuides": "https://clevenger-industries-llc.github.io/taktum.io/resources/",
+    "productHunt": "https://www.producthunt.com/products/taktum?launch=taktum",
+    "crunchbase": "https://www.crunchbase.com/organization/taktum"
   },
   "contact": {
     "email": "support@taktum.io"

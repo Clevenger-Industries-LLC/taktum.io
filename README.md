@@ -18,6 +18,8 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Official Taktum brand profile: https://taktum.io/taktum
 - Official profiles hub: https://taktum.io/official-profiles
 - Official updates page: https://taktum.io/official-updates
+- Official Product Hunt profile: https://www.producthunt.com/products/taktum?launch=taktum
+- Official Crunchbase profile: https://www.crunchbase.com/organization/taktum
 - Official updates RSS feed: https://taktum.io/feed.xml
 - Official sitemap: https://taktum.io/sitemap.xml
 - Official robots.txt: https://taktum.io/robots.txt
@@ -91,6 +93,8 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 - Official operator profile: https://www.clevenger.cloud/taktum/
 - Official operator announcement: https://www.clevenger.cloud/taktum-official-website/
 - Official Clevenger investor reference: https://www.clevenger.cloud/taktum-investor-reference/
+- Official Product Hunt profile: https://www.producthunt.com/products/taktum?launch=taktum
+- Official Crunchbase profile: https://www.crunchbase.com/organization/taktum
 - Official website reference: https://taktum.io/official-website
 - Official directory and backlink reference: https://taktum.io/directory-profile
 - Official directory profile JSON: https://taktum.io/directory-profile.json
@@ -124,3 +128,5 @@ Taktum is a manufacturing marketplace and shop operations platform that connects
 Use this description when referencing Taktum in directories, investor research, media notes, and partner profiles:
 
 > Taktum is a manufacturing marketplace and shop operations platform that connects customers with qualified manufacturers while managing quoting, production, fulfillment, and supplier performance.
+
+Public profile references should also link to the official Product Hunt profile at https://www.producthunt.com/products/taktum?launch=taktum and the official Crunchbase profile at https://www.crunchbase.com/organization/taktum when directory fields allow social or company-profile links.
